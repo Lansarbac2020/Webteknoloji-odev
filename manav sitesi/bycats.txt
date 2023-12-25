@@ -1,0 +1,991 @@
+<div class="bycats">
+                <div class="container">
+                    <div class="wrap">
+                        <div class="heading sort-list labs">
+                           <span class="grey-color">In</span>
+                            <div class="wrap">
+                                <h3 class="opt-trigger">
+                                    <span class="value">Tüm Ürünler
+                                    <i class="ri-arrow-down-s-line"></i>
+                                </h3>
+                                <ul>
+                                    
+                                    <li class="active"><a data-id="Meyve" href="#0" class="tabbed-trigger">Meyve</a></li>
+                                    <li><a data-id="Sebze"  href="#0" class="tabbed-trigger">Sebze</a></li>
+                                    <li ><a data-id="Kuruyemiş" href="#0" class="tabbed-trigger">Kuruyemişler</a></li>
+                                    <li><a data-id="Tohumlar"  href="#0" class="tabbed-trigger">Tohumlar</a></li>
+                                  
+
+                                </ul>
+                            </div>
+                           </span>
+                        </div>
+                        <div class="tabbed">
+                            <div id="Meyve" class="sort-data active">
+                                <div class="dotgrid">
+                                    <div class="wrapper">
+                                      <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg?size=626&ext=jpg&ga=GA1.1.913674640.1701261607&semt=ais" alt="Muz resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/free-vector/vector-whole-chopped-ripe-yellow-banana-isolated-white-background_1284-45451.jpg?size=626&ext=jpg&ga=GA1.1.913674640.1701261607&semt=sph"
+                                                     alt="muz resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Muz</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">60.00TL</span>
+                                            <span class="current">53.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/free-photo/delicious-red-apples-studio_23-2150811107.jpg?ga=GA1.1.913674640.1701261607&semt=ais_ai_generated" alt="Apricots resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/free-photo/delicious-red-apples-studio_23-2150811013.jpg?ga=GA1.1.913674640.1701261607&semt=ais_ai_generated"
+                                                     alt="Apricot resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Kayısı</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">27.00TL</span>
+                                            <span class="current">20.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/free-photo/red-tasty-fruit-background-closeup_1417-429.jpg?size=626&ext=jpg&ga=GA1.1.913674640.1701261607&semt=sph" alt="vişne resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/free-photo/big-cherry-white-background_1387-553.jpg?size=626&ext=jpg"
+                                                     alt="vişne resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Vişne</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">34.00TL</span>
+                                            <span class="current">27.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/free-photo/delicious-peach-isolated-white-background_181624-29175.jpg?size=626&ext=jpg&ga=GA1.1.913674640.1701261607&semt=ais" alt="şeftalı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/free-photo/smooth-skinned-ripe-nectarine-fruit-with-kernel-isolated-white-background-with-copy-space-text-images-variety-peach-side-view-close-up-shot_639032-1414.jpg?size=626&ext=jpg" alt="seftali resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">şeftalı</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">162.00TL</span> -->
+                                            <span class="current">14.00TL/KG</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/free-psd/view-ripe-sweet-fruit_23-2150112912.jpg?size=626&ext=jpg&ga=GA1.1.913674640.1701261607&semt=ais" 
+                                                    alt="çilek fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/premium-photo/fresh-ripe-juicy-strawberry-isolated-white-background_104677-218.jpg?size=626&ext=jpg" alt="cilek resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>kg</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">çilek</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">54.00TL/KG</span>
+                                            <span class="current">45.00TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/mandarine-orange-feuille-verte-isole-fond-blanc_104337-5736.jpg?w=740" 
+                                                    alt="Portakal fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/fruit-orange-isole-blanc_105428-1528.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="Portakal resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Portakal</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">30.00TL/KG</span> -->
+                                            <span class="current">20.00TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/grenade-exotique-delicieux-fond-blanc_144627-12572.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Nar fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/grenade-exotique-delicieux-fond-blanc_144627-12561.jpg?w=826&t=st=1702016160~exp=1702016760~hmac=4146a54b2496285f76bc846a80ccecc5694a2a1931e5c09a7c24dbf64dd22a21" alt="Portakal resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Nar</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">30.00TL/KG</span> -->
+                                            <span class="current">35.00/TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src=" https://img.freepik.com/photos-gratuite/kiwi-frais-isole_144627-30034.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="kivi fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/kiwi-frais-isole_144627-30033.jpg?w=900&t=st=1702016424~exp=1702017024~hmac=430b309dd458c8d59cc3b5eaac11ad776a824a6b180d8d405ed8e30644a501ae"
+                                                     alt="Kivi resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">KIvi</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">50.00TL/KG</span>
+                                            <span class="current">45.00/TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/framboises-rouges-mures-feuilles-vertes-isoles-blanc_80510-494.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Ahududu fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/groupe-framboises-fraiches-feuilles-isolees-fond-blanc-gros-plan_627281-549.jpg?w=900"
+                                                     alt="Ahududu resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Ahududu</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">40.00TL/KG</span>
+                                            <span class="current">35.40/TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/pomme-rouge-fond-blanc-isoler_326533-88.jpg?w=900" 
+                                                    alt="Elma fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/pommes-vertes-isolees-fond-blanc_489827-857.jpg?w=826"
+                                                     alt="Elma resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Elma</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">40.00TL/KG</span> -->
+                                            <span class="current">45.40/TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
+                            
+                            <div id="Sebze" class="sort-data active">
+                                <div class="dotgrid">
+                                    <div class="wrapper">
+            
+            
+                                    
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/tomate-rouge-fraiche-isole-blanc_1205-548.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="domates resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/tomates-fond-blanc_114579-20779.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais"
+                                                     alt="domates resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Domates</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">34.00TL</span>
+                                            <span class="current">27.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/piments-rouges_94989-162.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" 
+                                                    alt="kirmizi biber fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/piments-rouges_144627-37446.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" alt="kirmizi biber resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">BIBER</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">20.00TL/KG</span>
+                                            <span class="current">12.00TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/laitue-fraiche-isolee-blanc_792356-178.jpg?w=900" 
+                                                    alt="Marul fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/laitues-surface-blanche_144627-45175.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="Marul resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">MARUL</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">20.00TL/KG</span>
+                                            <span class="current">9.90TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/carottes-fraiches-isoles-blanc_272787-150.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Havuç fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/carottes-fraiches-isoles-blanc_62193-502.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Havuç resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Havuç</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">23.30TL/KG</span>
+                                            <span class="current">12.90TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/bulbes-oignon-frais-isoles-blanc_252965-131.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Soğan fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/oignons-crus-surface-blanche_144627-45173.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="Soğan resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">S0ĞAN</a></h2>
+                                           <div class="product-price">
+
+                                            <span class="current">12.90TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/aubergines-autre-vue-grand-angle-blanc_176474-2272.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="PATLICAN fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/aubergine-fraiche-isolee-blanc_272787-178.jpg?w=740" 
+                                                    alt="Soğan resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">PATLICAN</a></h2>
+                                           <div class="product-price">
+
+                                            <span class="current">22.40TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item ">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/premium-photo/new-potatoes-sackcloth-bag-isolated-white_899263-6057.jpg?w=826" alt="patates resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/free-photo/basket-white-potatoes_1268-25051.jpg?ga=GA1.1.913674640.1701261607&semt=ais_ai_generated"
+                                                     alt="patates resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Patates</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">67.00TL</span>
+                                            <span class="current">47.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item ">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/courgettes-vertes-fraiches-isoles-fond-blanc_62856-4907.jpg?w=740" alt="yeşil kabak resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/legumes-courgettes-vertes-isoles-blanc_116067-388.jpg?w=740"
+                                                     alt="yeşil kabak resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">yeşil kabak</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">67.00TL</span>
+                                            <span class="current">47.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item ">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/persil-frais-isole_144627-30012.jpg?w=900&t=st=1701888336~exp=1701888936~hmac=a88551c8d54a8bb6964d2f8070d1740c35087d239a719a69425189bce80af5ac" alt="maydanoz resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/herbe-persil-frais-mur-blanc_253984-746.jpg?w=740"
+                                                     alt="maydanoz resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Maydanoz</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">13.30TL</span>
+                                            <span class="current">9.50TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item ">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/epinards-table_144627-20711.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="maydanoz resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/agriculture-alimentaire-repas-legume-vitamine_1203-5924.jpg?w=900&t=st=1702015215~exp=1702015815~hmac=1e2f31b00f34e805e7c1b59a2361c84229ca727d0ccd8e9a0f900918d3b7ccc4"
+                                                     alt="ıspanak resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">ıspanak</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">14.30TL</span>
+                                            <span class="current">19.50TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
+                            <div id="Kuruyemiş" class="sort-data active">
+                                <div class="dotgrid">
+                                    <div class="wrapper">
+                                      <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/anacarde-naturelle_1368-5462.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" alt="kaju resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/noix-cajou_1339-243.jpg?w=900&t=st=1702039350~exp=1702039950~hmac=e42cc5b3561419fcd55d8aa70445e94dcca5c87868c2bcf4b0c9fb69d5effb3c"
+                                                     alt="muz resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">kaju</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">60.00TL</span>
+                                            <span class="current">53.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/raisins-seches_1368-9149.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" alt="kuru cilek resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/physiologie-deshydratee_1368-9153.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais"
+                                                     alt="kuru cilek resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Kuru çilek</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">27.00TL</span>
+                                            <span class="current">35.45TL/KG</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/noix-fraiche_144627-16135.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="ceviz resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/noix-noisettes-fraiches_144627-16133.jpg?t=st=1702039932~exp=1702040532~hmac=6c4d5c8b3e65a09c8cfe7ce2e34eebc7dc8c37a1d37d4bd7297d241f689cef1c"
+                                                     alt="Ceviz resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Ceviz</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">204.00TL</span>
+                                            <span class="current">193.00TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/arachides-fraiches-blanc_144627-16016.jpg?w=1060&t=st=1702040819~exp=1702041419~hmac=4c7bf7cfc39a8f83f4b59ce415330d03245d17e8608a26c40f81ef6aea9b0e2f" alt="yer fıstığı resmidir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/arachides-fraiches-blanc_144627-16026.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="yer fıstığı resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">yer fıstığı</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">162.00TL</span> -->
+                                            <span class="current">114.00TL/KG</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/noix-chataigne-feuilles-fond-blanc_183352-2797.jpg?w=826" 
+                                                    alt="KESTANE fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/chataignes-feuilles-isolees_183352-122.jpg?w=740" alt="KESTANE resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>kg</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">KESTANE</a></h2>
+                                           <div class="product-price">
+                                            <span class="before">202.120TL/KG</span>
+                                            <span class="current">197.20TL</span>
+                                           </div>
+                                        </div>
+                                    </div> 
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/amandes-isoles-fond-blanc_252965-339.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" 
+                                                    alt="badem fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/gros-plan-graines-amande-coupees-deux-isole-blanc_252965-77.jpg?w=900" alt="badem resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">badem</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">30.00TL/KG</span> -->
+                                            <span class="current">210.00TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/tas-pistaches_1308-41523.jpg?w=900&t=st=1702043251~exp=1702043851~hmac=6c95d214399e56720207f6b6bab92fc832bb84f19a440a0623fc778f8b23b6cb" 
+                                                    alt="Antep fıstığı fotoğrafı">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/noix-pistache-isole-blanc_62856-938.jpg?w=740" alt="Antep fıstığı  resimdir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-add-circle-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Antep fıstığı</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">30.00TL/KG</span> -->
+                                            <span class="current">315.00/TL</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                    
+                                  </div>
+                                </div>
+                            </div>
+                            <div id="Tohumlar" class="sort-data active">
+                                <div class="dotgrid">
+                                    <div class="wrapper">
+                                      <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/graines-tournesol-isoles-fond-blanc_627142-246.jpg?w=1380" alt="Ayçiçek çekirdeği resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/tas-graines-tournesol-isole-blanc_9635-2799.jpg?w=900"
+                                                     alt="muz resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Ayçiçek çekirdeği</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">90.90TL</span>
+                                            <span class="current">82.30TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/golden-sesame_1368-9409.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=sph" alt="kuru cilek resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/golden-sesame_1368-9205.jpg?w=900&t=st=1702044290~exp=1702044890~hmac=e8e99640500792874d94f4d18ed04ebde7376d731321e9e39895c7a4b3a53393"
+                                                     alt="kuru cilek resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">SUsame</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">357.00TL</span>
+                                            <span class="current">315.45TL/KG</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-gratuite/graine-chia_1368-9199.jpg?w=900&t=st=1702044388~exp=1702044988~hmac=c4bea04f888352c084e54fda726bd8f546ebcb8b05aaff085512391eee17f9dd" alt="Chia tohumu resimdir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-gratuite/cereales_1368-8657.jpg?w=900&t=st=1702044508~exp=1702045108~hmac=883f0ed604b2dc5921d0a83fdd850e311dbb71be2ca5cccdab8bcd75696b7e96"
+                                                     alt="Chia tohumu resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Chia tohumu</a></h2>
+                                           <div class="product-price">
+                                        <span class="before">104.00TL</span>
+                                            <span class="current">105.34TL</span>
+                                            
+                                           </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="dot-image">
+                                            <a href="#" class="produt-permalink"></a>
+                                                <div class="thumbnail">
+                                                    <img src="https://img.freepik.com/photos-premium/graines-lin-dans-sac-jute-isole-fond-blanc_88281-222.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" alt="Keten tohumu resmidir">
+                                                </div>
+                                                <div class="thumbnail hover">
+                                                    <img src="https://img.freepik.com/photos-premium/graines-lin-isoles-fond-blanc_88281-65.jpg?size=626&ext=jpg&ga=GA1.1.1278914853.1685783879&semt=ais" alt="Keten tohumu resimidir">
+                                                </div> 
+                                                <div class="actions">
+                                                    <ul>
+                                                        <li><a href=""><i class="ri ri-star-fill"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-arrow-left-right-line"></i></a></li>
+                                                        <li><a href=""><i class="ri ri-eye-line"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="label"><span>KG</span></div>
+                                            </a>
+                                        </div>
+                                        <div class="dot-info">
+                                            <h2 class="dot-title"><a href="">Keten tohumu</a></h2>
+                                           <div class="product-price">
+                                            <!-- <span class="before">162.00TL</span> -->
+                                            <span class="current">114.00TL/KG</span>
+                                           </div>
+                                        </div>
+                                    </div>
+                                
+                                    
+                                  </div>
+                                </div>
+                            </div>
+                           
+                           
+                            
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+
+
+
+*****************************************************************************************************************************************************************************************************
+
+
+ <div class="cartbody">
+            <div class="containersepet">
+                <div id="root"></div>
+                <div class="sidebar">
+                    <div class="head"><p class="sepetim">SEPETIM</p></div>
+                    <div id="cartItem">Sepetiniz boş</div>
+                    <div class="foot">
+                        <h3>Toplam :</h3>
+                        <h2 id="total"> 0.00 TL</h2>
+                        
+                    </div>
+                    <div class="shipping">
+                        <ul>
+                            <li>
+                                <i class="ri-gift-line"></i>
+                                <span>Free shipping & return</span>
+                                <span class="grey-color">On orders over $100</span>
+                            </li>
+                            <li>
+                                <i class="ri-truck-line"></i>
+                                <span>estime delivery: </span>
+                                <span class="grey-color">30dk</span>
+                            </li>
+                        </ul>
+                      </div>
+                      <div class="ordernow">
+                        <a href="login.html" target="_self" class="orderbutton" id="total">ÖDE</a>         
+                      </div>
+                </div>
+               
+            </div>
+        </div>
